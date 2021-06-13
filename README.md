@@ -1,4 +1,4 @@
-Python file work on device with following environment: <br />
+Python file works on device with following environment: <br />
 -Windows 10 x64 OS  <br />
 -Visual Studio Code - latest version    <br />
 -Python ^2.7.15 <br />
